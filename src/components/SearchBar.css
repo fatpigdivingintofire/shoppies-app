@@ -1,0 +1,11 @@
+.round {
+    width: 310px;
+    outline: none;
+    background: none;
+    height: 100%;
+    font-size: 20px;
+    color: rgb(171,179,198);
+    border: none;
+    border-bottom: 1px solid rgb(171,179,198);
+    margin-right: 20px
+}
